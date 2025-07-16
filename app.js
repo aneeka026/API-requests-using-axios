@@ -3,7 +3,7 @@ let btn=document.querySelector("button");
 let url = "https://catfact.ninja/fact";
 
 btn.addEventListener("click", async ()=>{
-  let fact = await getFacts();
+  let fact = await getFacts(); 
   console.log(fact);
   p.innerText= fact;
 })
