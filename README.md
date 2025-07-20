@@ -20,3 +20,6 @@ Dad Jokes API : https://icanhazdadjoke.com/
 This is a simple JavaScript-based web application that allows users to search for universities in a specified country using API.
 
 Hipolabs Universities API: http://universities.hipolabs.com/search?name=middle
+
+# API requests using fetch in react
+API used : https://jsonplaceholder.typicode.com/posts
