@@ -22,4 +22,13 @@ This is a simple JavaScript-based web application that allows users to search fo
 Hipolabs Universities API: http://universities.hipolabs.com/search?name=middle
 
 # API requests using fetch in react
-API used : https://jsonplaceholder.typicode.com/posts
+
+## 1) React Post List App
+This is a simple React application that fetches and displays a list of posts. It uses **Bootstrap** for responsive layout and styling.
+This project includes only the following React component files:
+- `App.jsx`
+- `Card.jsx`(inside components folder)
+
+Please set up the rest of the React project structure (e.g., `index.js`, `public/index.html`, `package.json`, etc.) yourself. You can use [Create React App](https://create-react-app.dev/) or any other preferred setup method like Vite[https://vite.dev/].
+
+ JSONPlaceholder API : https://jsonplaceholder.typicode.com/posts
